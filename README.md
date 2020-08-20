@@ -1,0 +1,1 @@
+# basic-crud-app-PyQt5-and-sqlite3
