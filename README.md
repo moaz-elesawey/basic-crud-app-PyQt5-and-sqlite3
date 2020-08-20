@@ -1,4 +1,4 @@
-# Basic CRUD app with PyQt5 and sqlite3 in python
+# Basic CRUD app with PyQt5 and sqlite3 in python.
 
 ### Demo
 ![alt text](https://github.com/Moaz-Mohammed-Elesawey/basic-crud-app-PyQt5-and-sqlite3/blob/master/Demo.JPG)
@@ -20,7 +20,7 @@ python university_table.py
 ```
 
 ### More Info
-To bundle it. her showing it for the windows OS. using the pyinstaller
+To bundle it. her showing it for the windows OS. using the pyinstaller.
 
 ```
 pyinstaller --windowed --onefile university_table.py
